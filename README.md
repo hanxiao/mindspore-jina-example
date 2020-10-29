@@ -1,6 +1,6 @@
 # Mindspore-Powered Neural Search in Jina
 
-This is the code repo for the blog post "Mindspore-Powered Neural Search in Jina".
+This is the code repo for the [blog post "Mindspore-Powered Neural Search in Jina"](https://hanxiao.io/2020/10/28/Mindspore-powered-Neural-Search-in-Jina/).
 
 ## Preliminaries
 
